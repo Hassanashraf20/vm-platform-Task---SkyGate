@@ -156,7 +156,8 @@ npm run start:dev
 ## 🧪 Testing
 
 ### API Testing Examples
-- https://bold-meadow-538559.postman.co/documentation/28448135-924b9075-cca0-4a67-b7ac-e32863d267a6/publish?workspaceId=9b88f878-66c0-4e3b-8af7-6a814b0c630c&authFlowId=8369ebc9-521d-4252-bcee-77dc69ab6bd9
+- Postman Published Collection
+- https://documenter.getpostman.com/view/28448135/2sB3QGvC7u
 
 ## 🛠️ Design Decisions & Trade-offs
 
@@ -211,7 +212,7 @@ npm run start:dev
 ## 📚 Additional Resources
 
 - [NestJS Documentation](https://docs.nestjs.com/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
+- [Mssql-DB]
 - [JWT.io](https://jwt.io/)
 
 ## 📝 License
