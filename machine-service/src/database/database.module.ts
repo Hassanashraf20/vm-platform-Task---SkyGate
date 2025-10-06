@@ -16,7 +16,7 @@ import { Machine } from 'src/machine/entities/machine.entity';
         database: config.get<string>('DB_NAME'),
         schema: 'SkyGate_cloud_db',
         entities: [Machine],
-        synchronize: true,
+        synchronize: false,
         extra: {
           trustServerCertificate: true,
           encrypt: true,
