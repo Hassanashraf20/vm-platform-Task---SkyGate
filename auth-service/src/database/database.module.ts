@@ -16,7 +16,7 @@ import { User } from 'src/auth/entities/user.entity';
         database: config.get<string>('DB_NAME'),
         schema: 'SkyGate_cloud_db',
         entities: [User],
-        synchronize: true,
+        synchronize: false,
         extra: {
           trustServerCertificate: true,
           encrypt: true,
